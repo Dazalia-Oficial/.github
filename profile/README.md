@@ -33,7 +33,7 @@ de inteligencia artificial, el proceso de diseño acompaña la elección de form
 dando lugar a ramos donde cada flor encuentra su lugar en equilibrio con el todo.
 
 Empresa chilena real y operativa del rubro floral, con una plataforma de e-commerce propia construida
-sobre una arquitectura de más de 70 microservicios, event-driven y con base de datos por servicio.
+sobre una arquitectura de más de 120 microservicios, event-driven y con base de datos por servicio.
 
 Fundada y liderada técnicamente por **[Alejandro Daza](https://github.com/Alejandro-Daza-Codes)**,
 Ingeniero en Informática — CEO e ingeniero a cargo del desarrollo completo de la plataforma.
