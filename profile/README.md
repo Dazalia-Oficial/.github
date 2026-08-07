@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/Dazalia-Oficial/.github/main/banner.svg" width="100%" alt="AI Floral Design Studio"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=22&duration=3000&pause=1200&color=1A0089&center=true&vCenter=true&width=700&height=45&lines=Plataforma+de+e-commerce+floral;70%2B+microservicios+en+producci%C3%B3n;Arquitectura+event-driven;Dise%C3%B1o+floral+asistido+por+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=22&duration=3000&pause=1200&color=1A0089&center=true&vCenter=true&width=700&height=45&lines=Plataforma+de+e-commerce+floral;120%2B+microservicios+en+producci%C3%B3n;Arquitectura+event-driven;Dise%C3%B1o+floral+asistido+por+IA" alt="Typing SVG" />
 </a>
 
 <br/>
